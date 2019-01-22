@@ -1,0 +1,9 @@
+id,case_id,description,open,lienholder_id
+5010,50101541,"this is the first lien on the case , valued at 6000",True,6954
+5011,50111541,second lien on the case,True,6954
+5012,50122098,"this interest has settled, waiting for payment",False,6954
+5013,50138183,700,True,6954
+5014,50148980,"value is 100,000 pay off is expected to be taken at a reduction",True,6954
+5015,50159265,"bought at 30% of value, value is 300",True,6954
+5016,50161341,values is 400,False,6954
+5017,50177655,plaintiff is requesting additional liens,True,6954
